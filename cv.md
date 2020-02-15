@@ -22,3 +22,46 @@ For me be Junior is trying to learn all, and be powerful in beginning.
       - CMS: Joomla, WP, DLE;
       - tools: PS, Chrome Console, PHPShtorm, Sublime;
       - long time ago C++, JAVA, C#, assembler;
+
+
+## 5. Code examples: 
+* [OpenBrussels.ru](http://openbrussels.ru/);
+* soon;
+```
+console.log("hello world");
+```
+
+## 6. Experience: 
+| M | Y |   | T | A |
+|---|---|---|---|---|
+| B | L |   | O | N |
+| M | A | R | K | D |
+| O | W | N |   | ! |
+
+:atom_symbol:
+
+[x] Markdown and Git
+
+## 7. Education:
+  * September 2020 - present
+    The Rolling Scopes School (Javascript/Front-end)  
+    
+  * Whot i can: 
+    * Computer service (repair, computer planning) 
+    * Servers service (firmware, storage) 
+    * Work with users 
+    * Documental work
+    
+  * Work Expirience
+    * August 2017 - September 2019
+    Militry Unit 2007. 
+    Information technologi engineer.
+    * September 2019 - present
+    Militry Unit 2007. 
+    Repair manager.
+
+  * Higher education Belarus, engineer(automatization and network).
+  * WebForMySelf, Youtube, PHP.com, Mozila, learn.javascript.ru.
+
+## 8. English: A2
+  watching movies and videos on English, reading book and special books.

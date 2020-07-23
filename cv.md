@@ -1,7 +1,7 @@
 # Markdown and Git Task
 
-## 1. Name: Alexander, Gervyatovskiy 24 y.o.
-
+## 1. Name: Alexander, Gervyatovskiy 25 y.o.
+  
 ## 2. Contact Information: 
     - Email - alexger95@gmail.com;
     - GitHub: https://github.com/alexger95;
@@ -26,10 +26,9 @@ For me be Junior is trying to learn all, and be powerful in beginning.
 
 ## 5. Code examples: 
 * [OpenBrussels.ru](http://openbrussels.ru/);
-* soon;
-```
-console.log("hello world");
-```
+* [Fancy weather](https://alexger95-fancy-weather.netlify.app/);
+* [English for kids](https://alexger95-english-for-kids.netlify.app/);
+* [Movesearch](https://alexger95-movesearch.netlify.app/);
 
 ## 6. Experience: 
 | M | Y |   | T | A |
@@ -64,4 +63,13 @@ console.log("hello world");
   * WebForMySelf, Youtube, PHP.com, Mozila, learn.javascript.ru.
 
 ## 8. English: A2
-  watching movies and videos on English, reading book and special books.
+  * before: 
+  He studied English at an advanced level at the gymnasium.
+  English with a professional bias at the university.
+  * now: 
+  I can ask a stranger for necessary information while traveling in another country.
+  Can watching movies and videos on English, reading book and special books.
+  * issue: 
+  Lack of speaking practice.
+
+## 9. Update INFO: 23.07.2020

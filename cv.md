@@ -1,7 +1,9 @@
 # Markdown and Git Task
 
-## 1. Name: Alexander, Gervyatovskiy 24 y.o.
+## 1. Name: Alexander, Gervyatovskiy 26 y.o.
 
+![Image of alexger95](https://alexger95.github.io/rsschool-cv/alex.jpg)
+  
 ## 2. Contact Information: 
     - Email - alexger95@gmail.com;
     - GitHub: https://github.com/alexger95;
@@ -13,32 +15,48 @@ For me very important is honesty and humanity.
 For me be Junior is trying to learn all, and be powerful in beginning.
 
 ## 4. Skills: 
+  ###### Programing
       - HTML;
       - CSS;
-      - JS;
-      - PHP;
+      - JS (es6, React);
+      - PHP (8.0);
       - SQL;
       - CEO;
       - CMS: Joomla, WP, DLE;
       - tools: PS, Chrome Console, PHPShtorm, Sublime;
       - long time ago C++, JAVA, C#, assembler;
+  ###### SOFT skills
+      - the leader (from 2018)
+      - work with people
+  ###### admin skills
+      - asterisk (linux)
+      - server on windows (1C)
+      - network (lan and WIFI)
+      - video surveillance systems
+      - smoll office (10 works place)
+  ###### hardware
+      - server and workstation hardware
+      - repair skills (phone, laptop, workstation)      
 
 
 ## 5. Code examples: 
 * [OpenBrussels.ru](http://openbrussels.ru/);
-* soon;
-```
-console.log("hello world");
-```
+* [Alex-transport.be](https://www.alex-transport.be/);
+* [Fancy weather](https://alexger95-fancy-weather.netlify.app/);
+* [English for kids](https://alexger95-english-for-kids.netlify.app/);
+* [Movesearch](https://alexger95-movesearch.netlify.app/);
 
-## 6. Experience: 
-| M | Y |   | T | A |
-|---|---|---|---|---|
-| B | L |   | O | N |
-| M | A | R | K | D |
-| O | W | N |   | ! |
-
-:atom_symbol:
+## 6. Experience in JS(RS School): 
+| S | K | I | L | L | S |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+| W | E | B |   | P | A | C | K |   |
+| G | I | T |   |   |   |   |   |   |
+| F | I | G | M | A |   |   |   |   |
+| M | A | R | K | D | O | W | N |   |
+| T | R | E | L | O |   |   |   |   |
+| A | L | G | O | R | I | T | M |   |
+| T | E | A | M |   | W | O | R | K |
+| R | E | A | C | T |   |   |   | :atom_symbol: |
 
 [x] Markdown and Git
 
@@ -64,4 +82,13 @@ console.log("hello world");
   * WebForMySelf, Youtube, PHP.com, Mozila, learn.javascript.ru.
 
 ## 8. English: A2
-  watching movies and videos on English, reading book and special books.
+  * before: 
+  He studied English at an advanced level at the gymnasium.
+  English with a professional bias at the university.
+  * now: 
+  I can ask a stranger for necessary information while traveling in another country.
+  Can watching movies and videos on English, reading book and special books.
+  * issue: 
+  Lack of speaking practice.
+
+## 9. Update INFO: 13.07.2021

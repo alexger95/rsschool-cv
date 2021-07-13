@@ -1,6 +1,8 @@
 # Markdown and Git Task
 
 ## 1. Name: Alexander, Gervyatovskiy 26 y.o.
+
+![Image of alexger95](https://alexger95.github.io/rsschool-cv/alex.jpg)
   
 ## 2. Contact Information: 
     - Email - alexger95@gmail.com;

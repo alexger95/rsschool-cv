@@ -1,12 +1,8 @@
 # Markdown and Git Task
 
-<<<<<<< HEAD
 ## 1. Name: Alexander, Gervyatovskiy 26 y.o.
 
 ![Image of alexger95](https://alexger95.github.io/rsschool-cv/alex.jpg)
-=======
-## 1. Name: Alexander, Gervyatovskiy 25 y.o.
->>>>>>> 618f462 (feat: add new information)
   
 ## 2. Contact Information: 
     - Email - alexger95@gmail.com;
@@ -45,10 +41,7 @@ For me be Junior is trying to learn all, and be powerful in beginning.
 
 ## 5. Code examples: 
 * [OpenBrussels.ru](http://openbrussels.ru/);
-<<<<<<< HEAD
 * [Alex-transport.be](https://www.alex-transport.be/);
-=======
->>>>>>> 618f462 (feat: add new information)
 * [Fancy weather](https://alexger95-fancy-weather.netlify.app/);
 * [English for kids](https://alexger95-english-for-kids.netlify.app/);
 * [Movesearch](https://alexger95-movesearch.netlify.app/);
@@ -98,8 +91,4 @@ For me be Junior is trying to learn all, and be powerful in beginning.
   * issue: 
   Lack of speaking practice.
 
-<<<<<<< HEAD
 ## 9. Update INFO: 13.07.2021
-=======
-## 9. Update INFO: 23.07.2020
->>>>>>> 618f462 (feat: add new information)

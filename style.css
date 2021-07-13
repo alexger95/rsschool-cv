@@ -57,3 +57,12 @@
       text-align: center;
       border-radius: 15% 15% 0% 0%;
   }
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+
+  .logo_rs {
+      max-width: 150px;
+  }

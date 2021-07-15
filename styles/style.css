@@ -1,0 +1,68 @@
+  body {
+      font-family: Roboto;
+      font-size: 18px;
+      max-width: 1024px;
+      margin: auto;
+  }
+  
+  html {
+      scroll-behavior: smooth;
+  }
+  
+  nav>ul {
+      padding: 0;
+      list-style: none;
+  }
+  
+  .navigation {
+      display: flex;
+      justify-content: space-between;
+  }
+  
+  li {
+      padding-left: 5px;
+  }
+  
+  hr {
+      padding-bottom: 1px;
+      border-bottom: 1px solid #f4f4f4;
+      background-color: #9b9b9b;
+  }
+  
+  div {
+      margin-top: 10px;
+      margin-right: 10px;
+      margin-left: 10px;
+  }
+  
+  .wrapper {
+      text-align: center;
+  }
+  
+  .wrapper img {
+      border-radius: 30px;
+  }
+  
+  code {
+      background-color: #9b9b9b;
+  }
+  
+  .rsschool {
+      padding: 5px;
+  }
+  
+  footer {
+      font-style: italic;
+      text-align: center;
+      border-radius: 15% 15% 0 0;
+      background-color: #9b9b9b;
+  }
+  
+  .responsive {
+      width: 100%;
+      height: auto;
+  }
+  
+  .logo_rs {
+      max-width: 150px;
+  }

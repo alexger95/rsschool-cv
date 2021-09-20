@@ -8,6 +8,15 @@
   html {
       scroll-behavior: smooth;
   }
+
+  header {
+    display: flex;
+    justify-content: end;
+  }
+
+  article {
+    padding: 10px;
+  }
   
   nav>ul {
       padding: 0;
@@ -29,7 +38,7 @@
       background-color: #9b9b9b;
   }
   
-  div {
+  div, section {
       margin-top: 10px;
       margin-right: 10px;
       margin-left: 10px;
@@ -65,4 +74,56 @@
   
   .logo_rs {
       max-width: 150px;
+  }
+
+  .toggle {
+    display: none;
+  }
+
+ 
+
+
+  @media (max-width: 1000px) {
+
+    .toggle {
+      display: block;
+      position: relative;
+      margin: 5px;
+      width: 50px;
+      height: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+    }
+    .toggle::after, .toggle::before {
+      position: absolute;
+      content: "";
+      width: 50px;
+      height: 2px;
+      background-color: black;
+    }
+    .toggle::before {
+      top: 0;
+      right: 0;
+    }
+    .toggle::after {
+      bottom: 0;
+      right: 0;
+    }
+    
+    .navigation {
+      display: none;
+      padding: 0;
+      list-style: none;
+  }
+  .open {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+    align-items: center;
+    margin: 0;
+  }
+    nav {
+      width: 100%;
+    }
   }
